@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GADOUCHE Hamza</h1>
-<h3 align="center">Master Degree Computer Science Student | Front-End Web Developer | Beginner UI/UX Designer</h3>
+<h3 align="center">Master Degree Computer Science Student | Front-End Web Developer | Beginner UI/UX Designer | Beginner Graphic Designer | Photographer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hgdz21&label=Profile%20views&color=0e75b6&style=flat" alt="hgdz21" /> </p>
 
