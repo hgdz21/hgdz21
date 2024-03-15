@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Html & Css & UI/UX Design**
-
 - 📫 How to reach me **hamza.gadouche@univ-skikda.dz**
 
 <h3 align="left">Connect with me:</h3>
