@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm GADOUCHE Hamza</h1>
-<h3 align="center">Master Degree Computer Science Student in SKIKDA University | Front-End Web Developer | Beginner Graphic Designer | Photographer</h3>
+<h3 align="center">Master Degree Computer Science Student in SKIKDA University | Junior Graphic Designer | Photographer</h3>
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **JavaScript & Python**
+- 🌱 I’m currently learning **Dart (Flutter) & Python**
 
 - 📫 How to reach me **hamza.gadouche@univ-skikda.dz**
 
