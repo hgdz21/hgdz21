@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **JavaScript & Python**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **hamza.gadouche@univ-skikda.dz**
 
