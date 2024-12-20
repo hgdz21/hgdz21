@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm GADOUCHE Hamza</h1>
-<h3 align="center">Master Degree Computer Science Student | Front-End Web Developer | Graphic Designer | Photographer</h3>
+<h3 align="center">Front-End Web Developer | Master's in Advanced Computer Science Systems and Applications</h3>
 
 - 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **Angular**
-
-- 💬 Ask me about **Html & Css & Graphic Design**
 
 - 📫 How to reach me **hamza.gadouche@univ-skikda.dz**
 
