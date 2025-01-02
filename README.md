@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hamza.gadouche@univ-skikda.dz**
 
-- 🌳 Visit my Linktree Profile <a href="https://linkedin.com/in/hamza-gadouche-062b852b9" target="blank"></a>
+- 🌳 Visit my <a href="https://linktr.ee/hamza.gadouche" target="blank">Linktree Profile</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
