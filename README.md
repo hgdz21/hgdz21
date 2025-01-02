@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/hamza-gadouche-062b852b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza-gadouche-062b852b9" height="30" width="40" /></a>
 <a href="https://instagram.com/hamza_gadouche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamza_gadouche" height="30" width="40" /></a>
 <a href="https://x.com/hamza_gadouche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamza_gadouche" height="30" width="40" /></a>
-<a href="https://medium.com/@hgdz21" target="blank"><img align="center" src="https://findingtom.com/images/uploads/medium-logo/article-image-00.jpeg" alt="hamzagadouche" height="30" width="40" /></a>
+<a href="https://medium.com/@hgdz21" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/5968/5968906.png" alt="hamzagadouche" height="30" width="40" /></a>
 <a href="https://www.behance.net/hamzagadouche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hamzagadouche" height="30" width="40" /></a>
 
 </p>
