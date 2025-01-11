@@ -72,7 +72,8 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<h3>👨‍💻 Forrest's Coding Journey</h3>
+<details>
+ <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
 <p>Hi, I'm Hamza Gadouche, 22 years old, a graduate student holding a Master's degree in Computer Science specializing in "Advanced Computer Science Systems and Applications", I also have a startup certificate. 
 A Front-End Web Developer using Html, Css, JavaScript and Angular.
 I have some experience in volunteer work with Skikda i-Tech Club for 3 years, where I honed my skills and had many wonderful experiences. I also had the honor of being the vice president of the club where I worked hard to elevate the club's aspirations and alhamduillah ❤️.</p>
