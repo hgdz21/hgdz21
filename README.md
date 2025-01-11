@@ -66,7 +66,7 @@ I have some experience in volunteer work with Skikda i-Tech Club for 3 years, wh
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=hgdz21&theme=dark&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=hgdz21&theme=dark&count_private=true&border_radius=10" alt="streak stats"/>
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=hgdz21&show_icons=true&theme=dark" />
 </div>
