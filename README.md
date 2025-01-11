@@ -42,6 +42,8 @@ I have some experience in volunteer work with Skikda i-Tech Club for 3 years, wh
     
 </div>
 
+</br>
+
  <hr/>
  
 <h2 align="center">⚒️ Languages/Frameworks/Tools ⚒️</h2>
