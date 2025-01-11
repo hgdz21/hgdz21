@@ -14,14 +14,6 @@ A Front-End Web Developer using Html, Css, JavaScript and Angular.
 I have some experience in volunteer work with Skikda i-Tech Club for 3 years, where I honed my skills and had many wonderful experiences. I also had the honor of being the vice president of the club where I worked hard to elevate the club's aspirations and alhamduillah ❤️.</p>
 
 <br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **My Portfolio**
- 
- 🌱 I’m currently learning **Angular**
-
- </div>
  
 <div align="center"> 
   <a href="mailto:hamza.gadouche@univ-skikda.dz">
