@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="http://www.linkedin.com/in/hamza-gadouche-062b852b9" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-=0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5 ?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
   <a href="https://www.instagram.com/hamza_gadouche/" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
