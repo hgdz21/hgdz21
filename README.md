@@ -43,7 +43,7 @@ I have some experience in volunteer work with Skikda i-Tech Club for 3 years, wh
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages/Frameworks/Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,angular,typescript,bootstrap" />
@@ -51,8 +51,6 @@ I have some experience in volunteer work with Skikda i-Tech Club for 3 years, wh
 </div>
 
 <br/>
-<hr/>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
