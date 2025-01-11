@@ -27,7 +27,7 @@
      <img src="https://img.shields.io/badge/Instagram-FF5722?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
      <a href="https://x.com/hamza_gadouche" target="_blank">
-     <img src="https://img.shields.io/badge/X-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/X-FF5722?style=for-the-badge&logo=X&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
      <a href="https://medium.com/@hgdz21" target="_blank">
      <img src="https://img.shields.io/badge/Medium-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
