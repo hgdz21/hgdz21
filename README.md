@@ -9,6 +9,7 @@
 <br/>
 
  <h2 align="center">👨‍💻 Small Description About Me 👨‍💻</h2>
+ <br/>
  
 <p>Hi, I'm Hamza Gadouche, 22 years old, a graduate student holding a Master's degree in Computer Science specializing in "Advanced Computer Science Systems and Applications", I also have a startup certificate. 
 A Front-End Web Developer using Html, Css, JavaScript and Angular.
