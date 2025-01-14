@@ -11,7 +11,7 @@
  <h2 align="center">👨‍💻 Small Description About Me 👨‍💻</h2>
  <br/>
  
-<p>Hi, I'm Hamza Gadouche, 23 years old, A Front-End Web Developer using some technologies and languages and frameworks like "Html, CSS, JavaScript, TypeScript and Angular". 
+<p>Hi, I'm Hamza Gadouche, 23 years old, A Front-End Web Developer using some technologies and languages and frameworks like "Html, CSS, JavaScript, NodeJs, TypeScript and Angular". 
 
 A graduate student holding a Master's degree in Computer Science specializing in "Advanced Computer Science Systems and Applications" in University of 20 Aout 1955 - Skikda, I also obtained a Startup Certificate after presenting our graduation project, which was a job search platform based on artificial intelligence named "Shigoto," a word that means "work" in Japanese.
 
