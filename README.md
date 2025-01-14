@@ -11,9 +11,18 @@
  <h2 align="center">👨‍💻 Small Description About Me 👨‍💻</h2>
  <br/>
  
-<p>Hi, I'm Hamza Gadouche, 22 years old, a graduate student holding a Master's degree in Computer Science specializing in "Advanced Computer Science Systems and Applications", I also have a startup certificate. 
-A Front-End Web Developer using Html, Css, JavaScript and Angular.
-I have some experience in volunteer work with Skikda i-Tech Club for 3 years, where I honed my skills and had many wonderful experiences. I also had the honor of being the vice president of the club where I worked hard to elevate the club's aspirations and alhamduillah ❤️.</p>
+<p>Hi, I'm Hamza Gadouche, 23 years old, A Front-End Web Developer using some technologies and languages and frameworks like "Html, CSS, JavaScript, TypeScript and Angular". 
+
+A graduate student holding a Master's degree in Computer Science specializing in "Advanced Computer Science Systems and Applications" in University of 20 Aout 1955 - Skikda, I also obtained a Startup Certificate after presenting our graduation project, which was a job search platform based on artificial intelligence named "Shigoto," a word that means "work" in Japanese.
+
+I also had the opportunity to experience an internship at Sonatrach, where I learned about many aspects related to my field of study and gained an understanding of the company's operations from a technical perspective.
+
+Also had the opportunity to work as a freelancer on the "Fiverr" platform for a few months, but I had to stop due to personal circumstances.
+
+I have some experience in volunteering work with Skikda i-Tech Club for 3 years, where I honed my skills and had many wonderful experiences, And I was honored to represent the club in many national and international competitions and hackathons, And i had the honor of being the vice president of the club where I worked hard to elevate the club's aspirations. 
+In addition to my participation as a volunteer in many events organized by active associations in the Skikda province.
+
+Now, and Alhamduillah, I am working at "Belsons Technology," a private company specializing in software development for its clients. The company has many branches around the world, including Algeria, and my role is as a Front-End Web Developer.</p>
 
 <br/>
  
