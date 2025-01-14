@@ -46,7 +46,7 @@ Now, and Alhamduillah, I am working at "Belsons Technology," a private company s
      <img src="https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
   </a>
-     <a href="hhttps://dribbble.com/hamza_gadouche" target="_blank">
+     <a href="https://dribbble.com/hamza_gadouche" target="_blank">
      <img src="https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
     
