@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Hamza+GADOUCHE!;" />
 </h1>
 
-<h3 align="center">Front-End Web Developer | Master's in Advanced Computer Science Systems and Applications</h3>
+<h3 align="center">Front-End Web Developer | Graphic Designer | Master's in Advanced Computer Science Systems and Applications</h3>
 
 <br/>
 
