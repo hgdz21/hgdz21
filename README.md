@@ -8,7 +8,7 @@
 
 <br/>
 
- <h2 align="center">👨‍💻 Small Description About Me 👨‍💻</h2>
+ <h2 align="center">👨‍💻 Description About Me 👨‍💻</h2>
  <br/>
  
 <p>Hi, I'm Hamza Gadouche, 23 years old, A Front-End Web Developer using some technologies and languages and frameworks like "Html, CSS, JavaScript, NodeJs, TypeScript and Angular". 
