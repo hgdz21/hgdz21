@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&center=true&vCenter=true&width=600&height=70&lines=Hi+👋,+I'm+Hamza+Gadouche;Front-End+Developer+%26+Designer;Building+Modern+Web+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&center=true&vCenter=true&width=600&height=70&lines=Hi+👋,+I'm+Hamza+Gadouche;" />
 </h1>
 
-<h3 align="center">💻 Front-End Developer | 🎨 Graphic Designer | 🎓 MSc in Advanced Computer Science</h3>
+<h3 align="center">💻 Front-End Web Developer | 🎨 Graphic Designer | 🎓 MSc in Computer Science Systems & Applications</h3>
 
 ---
 
@@ -10,12 +10,11 @@
 
 - 🎯 Passionate **Front-End Developer** focused on modern web technologies  
 - 🎨 Creative **Graphic Designer** with 2+ years of experience  
-- 🎓 Master's degree in *Advanced Computer Science Systems & Applications*  
-- 🧠 Built an AI-powered job platform **"Shigoto"** (Graduation Project)  
-- 🏢 Currently working at **Belsons Technology** as a Front-End Developer  
+- 🎓 Master's degree in *Advanced Computer Science Systems & Applications*
 - 🤝 Former **Vice President** at *Skikda i-Tech Club*  
 - 🌍 Participated in national & international **hackathons & competitions**  
-- 💼 سابقًا Freelance على Fiverr  
+- 💼 Formerly Freelance on Fiverr 
+- 🏢 Currently working at **Belsons Technology** as a Front-End Web Developer 
 
 ---
 
@@ -30,7 +29,7 @@
 <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma" />
 
 ### ⚙️ Tools
-<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel" />
 
 </div>
 
