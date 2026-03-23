@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&center=true&vCenter=true&width=600&height=70&lines=Hi+👋,+I'm+Hamza+Gadouche;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=5000&center=true&vCenter=true&width=600&height=70&lines=Hi+👋,+I'm+Hamza+Gadouche;" />
 </h1>
 
 <h3 align="center">💻 Front-End Web Developer | 🎨 Graphic Designer | 🎓 MSc in Computer Science Systems & Applications</h3>
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎯 Passionate **Front-End Developer** focused on modern web technologies  
+- 🎯 Passionate **Front-End Web Developer** focused on modern web technologies  
 - 🎨 Creative **Graphic Designer** with 2+ years of experience  
 - 🎓 Master's degree in *Advanced Computer Science Systems & Applications*
 - 🤝 Former **Vice President** at *Skikda i-Tech Club*  
