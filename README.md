@@ -27,7 +27,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,nodejs,bootstrap" />
 
 ### 🎨 Design
-<img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma,lightroom,blender" />
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma" />
 
 ### ⚙️ Tools
 <img src="https://skillicons.dev/icons?i=vscode,git,github" />
