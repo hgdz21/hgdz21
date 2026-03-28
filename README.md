@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎯 Passionate **Front-End Web Developer** focused on modern web technologies  
+- 🎯 Passionate **Front-End Web Developer** focused on modern web technologies
 - 🎨 Creative **Graphic Designer** with 2+ years of experience  
 - 🎓 Master's degree in *Advanced Computer Science Systems & Applications*
 - 🤝 Former **Vice President** at *Skikda i-Tech Club*  
